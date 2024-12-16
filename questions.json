@@ -1,0 +1,39 @@
+[
+    {
+        "question": "What is the capital of France?",
+        "options": ["Paris", "London", "Berlin", "Rome"],
+        "answer": "Paris"
+    },
+    {
+        "question": "What is the capital of India?",
+        "options": ["New Delhi", "Mumbai", "Berlin", "Jaipur"],
+        "answer": "Paris"
+    },
+    {
+        "question": "What is the  tool use for data analysis?",
+        "options": ["PowerBi", "Vscode", "githup", "API"],
+        "answer": "PowerBi"
+    },
+    {
+        "question": "What is the largest planet in our solar system?",
+        "options": ["Earth", "Jupiter", "Mars", "Venus"],
+        "answer": "Jupiter"
+    },
+    {
+        "question": "What is the chemical symbol for water?",
+        "options": ["O2", "H2O", "CO2", "NaCl"],
+        "answer": "H2O"
+    },
+    {
+        "question": "Which of the following is not type of data analysis?",
+        "options": ["Descriptive Analysis", "Diagnostic Analysis", "Predictive Analysis", "Prescriptive Analysis"],
+        "answer": "Prescriptive Analysis"
+    },
+    
+    {
+        "question": "Which of the following method of graphical reprensentation of  data would be useful for showing trends ?",
+        "options": ["Bar chart", "Line Chart", "Box Plot", "Pie chart"],
+        "answer": "Line Chart"
+    }
+
+]
