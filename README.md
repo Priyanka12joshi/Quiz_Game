@@ -10,7 +10,7 @@ Randomized Questions: Questions are shuffled to make each quiz session unique.
 ## How to Use 🚀
 Clone the Repository:
 bash
-git clone https://github.com/yourusername/quiz-game.git
+git clone https://github.com/Priyanka12jsohi/Quiz_Game.git
 cd quiz-game
 Prepare the Environment:
 
